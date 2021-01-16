@@ -1,0 +1,8 @@
+.DS_Store
+.NERDTreeBookmarks
+.viminfo
+.zsh_history
+.zsh_sessions
+plugged/
+autoload/
+plugged/
